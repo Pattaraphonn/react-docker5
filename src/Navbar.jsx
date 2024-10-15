@@ -24,7 +24,6 @@ export default function Navbar() {
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             Pattaraphon Kittiviriyakrn 
           </Typography>
-          <Button color="inherit">xxx</Button>
           <Button color="inherit">Login</Button>
         </Toolbar>
       </AppBar>
