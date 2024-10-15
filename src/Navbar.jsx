@@ -22,8 +22,9 @@ export default function Navbar() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            AJ Suriya 
+            Pattaraphon Kittiviriyakrn 
           </Typography>
+          <Button color="inherit">xxx</Button>
           <Button color="inherit">Login</Button>
         </Toolbar>
       </AppBar>
